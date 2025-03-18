@@ -1,12 +1,6 @@
 # Gravitas
 ![Start](https://github.com/user-attachments/assets/5d0eddf8-e3a4-4fa7-817c-b34f2385e3b1)
 
-### How to Run
-**System Requirements:**
-- Windows OS
-- 16:9 aspect ratio recommende
-- Unity Version: 6000.0.41f1  
----
 ## Game Description
 You crash-land on **Planet 300**, a desolate yet dangerous world. Your only way to survive is by reaching the settlement, but the terrain and hostile creatures stand in your way. Fortunately, your suit allows you to **manipulate gravity**, affecting not only yourself but everything around you. Navigate treacherous landscapes, fight off enemies, and make strategic use of gravity to progress through the planet’s dangers.
 
@@ -32,6 +26,11 @@ You crash-land on **Planet 300**, a desolate yet dangerous world. Your only way 
 **Breaking a Conventional Rule:**
 - Players **cannot directly control their jumps** as in traditional platformers.
 - Instead, they must **manipulate gravity** to adjust their movement, adding a layer of strategy and skill.
+---
+**System Requirements:**
+- Windows OS
+- 16:9 aspect ratio recommende
+- Unity Version: 6000.0.41f1  
 ---
 ## Credits
 ### **Game Design & Development**
