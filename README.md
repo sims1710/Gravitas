@@ -4,14 +4,8 @@
 ### How to Run
 **System Requirements:**
 - Windows OS
-- 16:9 aspect ratio recommended
-
-**Controls:**
-- `A, D` – Move character left or right
-- `Left Mouse Click` – Shoot
-- `Right Mouse Click & Drag` – Adjust gravity
-
-**Unity Version:** 6000.0.41f1  
+- 16:9 aspect ratio recommende
+- Unity Version: 6000.0.41f1  
 ---
 ## Game Description
 You crash-land on **Planet 300**, a desolate yet dangerous world. Your only way to survive is by reaching the settlement, but the terrain and hostile creatures stand in your way. Fortunately, your suit allows you to **manipulate gravity**, affecting not only yourself but everything around you. Navigate treacherous landscapes, fight off enemies, and make strategic use of gravity to progress through the planet’s dangers.
